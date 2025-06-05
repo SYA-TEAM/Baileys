@@ -32,7 +32,7 @@
     "@adiwajshing/keyed-db": "^0.2.4",
     "@cacheable/node-cache": "1.5.3", 
     "@adiwajshing/eslint-config": "github:adiwajshing/eslint-config",
-    "libsignal": "npm:@meta.inc/libsignal@*",
+    "libsignal": "github:ds6/sgn",
     "async-mutex": "^0.5.0",
     "futoin-hkdf": "^1.5.1",
     "axios": "^1.6.0",
