@@ -1,3 +1,8 @@
+⚠️ ADVERTENCIA ⚠️
+Esta Bailyes tiene Licencia "GPL-3.0 license"
+> Si detecta que se esta imcumpliendo las Normas se le tumbara.
+
+
 <h1><img alt="Baileys logo" src="https://files.catbox.moe/k7x02e.png" height="75"/></h1>
 
 # MayBaileys
